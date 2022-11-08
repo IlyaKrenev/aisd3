@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "in": "srс/main.ts",
+    "out": "dist/main.js",
+    "watch": true
+  }
+}
